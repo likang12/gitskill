@@ -1,2 +1,0 @@
-# gitkill
-my git
